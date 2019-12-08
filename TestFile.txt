@@ -1,3 +1,0 @@
-pull test file
-string2
-rebase test1
